@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:ital,wght@0,400..700;1,400..700&family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@300;400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-editorial-bg: #F8F7F2;
+  --color-editorial-dark: #1A1A1A;
+  --color-editorial-border: #E5E4DE;
+  --color-editorial-gold: #D4AF37;
+  --color-editorial-muted: #888888;
+  --color-editorial-panel: #FFFFFF;
+
+  --font-serif: "Cinzel", Georgia, serif;
+  --font-sans: "Space Grotesk", "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+}
+

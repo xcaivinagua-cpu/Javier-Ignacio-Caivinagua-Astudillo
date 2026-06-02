@@ -1,0 +1,6 @@
+{
+  "name": "Galo F. Fotografía de Autor",
+  "description": "Exclusiva plataforma de venta de fotografía artística de autor para diseño y decoración de interiores. Ediciones limitadas firmadas con certificado de autenticidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
